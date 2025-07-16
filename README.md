@@ -1,0 +1,2 @@
+# FigmaToChromeExtensionGuideFigmaToChromeExtensionGuide
+This guide provides a systematic, reusable workflow for transforming Figma design prototypes into high-quality, performant Chrome extensions using Plasmo, React, and JavaScript. The guide includes a sample project, "NoteTaker", to demonstrate the practical application of the workflow, along with curated reference links to support implementation.
